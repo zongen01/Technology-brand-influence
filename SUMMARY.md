@@ -8,7 +8,7 @@
 
 ## Group 1
 
-* [合作](group-1/he-zuo/README.md)
+* [🤝 合作](group-1/he-zuo/README.md)
   * [中立开发者社区](group-1/he-zuo/zhong-li-kai-fa-zhe-she-qu.md)
   * [非中立开发者社区](group-1/he-zuo/fei-zhong-li-kai-fa-zhe-she-qu.md)
   * [科技媒体](group-1/he-zuo/ke-ji-mei-ti.md)
