@@ -1,9 +1,8 @@
 # Table of contents
 
 * [目标](README.md)
-* [关键指标](guan-jian-zhi-biao.md)
+* [关键指标](shu-ju.md)
 * [活动](<README (1).md>)
-* [2024年技术活动](2024-nian-ji-shu-huo-dong.md)
 * [社交媒体](she-jiao-mei-ti.md)
 * [内容形式](he-zuo.md)
 
@@ -21,3 +20,8 @@
 * [🔎 搜索引擎](sou-suo-yin-qing.md)
 * [🏨 机构协会](ji-gou-xie-hui.md)
 * [💎 奖项与榜单](jiang-xiang-yu-bang-dan.md)
+
+## Group 2
+
+* [工具包](group-2/gong-ju-bao/README.md)
+  * [2024年技术活动](group-2/gong-ju-bao/2024-nian-ji-shu-huo-dong.md)
