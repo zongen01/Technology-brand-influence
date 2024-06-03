@@ -1,7 +1,8 @@
 # Table of contents
 
-* [活动](README.md)
-* [数据](shu-ju.md)
+* [目标](README.md)
+* [关键指标](guan-jian-zhi-biao.md)
+* [活动](<README (1).md>)
 * [2024年技术活动](2024-nian-ji-shu-huo-dong.md)
 * [社交媒体](she-jiao-mei-ti.md)
 * [内容形式](he-zuo.md)
