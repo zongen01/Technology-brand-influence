@@ -4,7 +4,7 @@
 * [数据](shu-ju.md)
 * [2024年技术活动](2024-nian-ji-shu-huo-dong.md)
 * [社交媒体](she-jiao-mei-ti.md)
-* [合作](he-zuo.md)
+* [内容形式](nei-rong-xing-shi.md)
 
 ## Group 1
 
