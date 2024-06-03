@@ -18,5 +18,5 @@
 
 * [🧔 人员分类](ren-yuan-fen-lei.md)
 * [🔎 搜索引擎](sou-suo-yin-qing.md)
-* [机构协会](ji-gou-xie-hui.md)
-* [Page 2](page-2.md)
+* [🏨 机构协会](ji-gou-xie-hui.md)
+* [💎 奖项与榜单](jiang-xiang-yu-bang-dan.md)
