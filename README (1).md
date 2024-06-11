@@ -1,5 +1,9 @@
 # 目标
 
+
+
+<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
 ### 核心目标：
 
 1、提升开源项目、产品和解决方案技术品牌影响力，从而扩大用户数
