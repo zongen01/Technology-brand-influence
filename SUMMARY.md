@@ -10,7 +10,7 @@
 * [🔎 搜索引擎](sou-suo-yin-qing.md)
 * [🏨 机构协会](ji-gou-xie-hui.md)
 * [💎 奖项与榜单](jiang-xiang-yu-bang-dan.md)
-* [📚教育](jiao-yu.md)
+* [📚 教育](jiao-yu.md)
 * [工具包](gong-ju-bao/README.md)
   * [🤝 合作](gong-ju-bao/he-zuo/README.md)
     * [中立开发者社区](gong-ju-bao/he-zuo/zhong-li-kai-fa-zhe-she-qu.md)
