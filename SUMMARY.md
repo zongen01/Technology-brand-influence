@@ -1,7 +1,7 @@
 # Table of contents
 
 * [目标](README.md)
-* [关键指标](shu-ju.md)
+* [📐 关键指标](shu-ju.md)
 * [活动](<README (1).md>)
 * [社交媒体](she-jiao-mei-ti.md)
 * [内容形式](he-zuo.md)
@@ -16,7 +16,7 @@
 
 ***
 
-* [🧔 人员分类](ren-yuan-fen-lei.md)
+* [🧔 人群画像](ren-qun-hua-xiang.md)
 * [🔎 搜索引擎](sou-suo-yin-qing.md)
 * [🏨 机构协会](ji-gou-xie-hui.md)
 * [💎 奖项与榜单](jiang-xiang-yu-bang-dan.md)
