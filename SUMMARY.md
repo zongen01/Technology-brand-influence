@@ -1,6 +1,7 @@
 # Table of contents
 
-* [前言](README.md)
+* [活动列表](README.md)
+* [前言](<README (2).md>)
 * [目标](<README (1).md>)
 * [📐 关键指标](shu-ju.md)
 * [举办活动](ju-ban-huo-dong.md)
