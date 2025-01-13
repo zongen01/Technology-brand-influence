@@ -1,6 +1,6 @@
 # Table of contents
 
-* [活动列表](README.md)
+* [🔥 开发者技术活动汇总列表](README.md)
 * [前言](<README (2).md>)
 * [目标](<README (1).md>)
 * [📐 关键指标](shu-ju.md)
