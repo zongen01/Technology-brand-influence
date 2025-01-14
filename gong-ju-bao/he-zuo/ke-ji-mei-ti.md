@@ -17,4 +17,5 @@
 | 晚点       | [https://www.latepost.com/](https://www.latepost.com/) |   |
 | 网易科技     | [https://tech.163.com/](https://tech.163.com/)         |   |
 | 凤凰网科技    | [https://tech.ifeng.com/](https://tech.ifeng.com/)     |   |
+| 硅星人（品玩）  | [https://www.pingwest.com/](https://www.pingwest.com/) |   |
 
