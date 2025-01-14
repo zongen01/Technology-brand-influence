@@ -1,12 +1,12 @@
 # Table of contents
 
 * [🔥 开发者技术活动汇总列表](README.md)
-* [工具包](gong-ju-bao/README.md)
-  * [开发者社区](gong-ju-bao/kai-fa-zhe-she-qu.md)
-  * [技术出海](gong-ju-bao/ji-shu-chu-hai.md)
-  * [科技媒体](gong-ju-bao/ke-ji-mei-ti.md)
-  * [非中立开发者社区](gong-ju-bao/fei-zhong-li-kai-fa-zhe-she-qu.md)
-  * [中立开发者社区](gong-ju-bao/zhong-li-kai-fa-zhe-she-qu.md)
+* [🤝 联合&合作](lian-he-he-zuo/README.md)
+  * [开发者社区](lian-he-he-zuo/kai-fa-zhe-she-qu.md)
+  * [技术出海](lian-he-he-zuo/ji-shu-chu-hai.md)
+  * [科技媒体](lian-he-he-zuo/ke-ji-mei-ti.md)
+  * [非中立开发者社区](lian-he-he-zuo/fei-zhong-li-kai-fa-zhe-she-qu.md)
+  * [中立开发者社区](lian-he-he-zuo/zhong-li-kai-fa-zhe-she-qu.md)
 * [技术品牌运营](ji-shu-pin-pai-yun-ying/README.md)
   * [前言](ji-shu-pin-pai-yun-ying/qian-yan.md)
   * [目标](ji-shu-pin-pai-yun-ying/mu-biao.md)

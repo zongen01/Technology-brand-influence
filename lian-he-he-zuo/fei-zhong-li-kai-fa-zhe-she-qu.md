@@ -4,7 +4,7 @@
 
 华为云：[https://bbs.huaweicloud.com/](https://bbs.huaweicloud.com/)
 
-阿里云：[https://developer.aliyun.com/?spm=a2c6h.12883283.J\_eBhO-wcawiLJRkGqHmozR.1.a0cb4307QzARKA](https://developer.aliyun.com/?spm=a2c6h.12883283.J\_eBhO-wcawiLJRkGqHmozR.1.a0cb4307QzARKA)
+阿里云：[https://developer.aliyun.com/?spm=a2c6h.12883283.J\_eBhO-wcawiLJRkGqHmozR.1.a0cb4307QzARKA](https://developer.aliyun.com/?spm=a2c6h.12883283.J_eBhO-wcawiLJRkGqHmozR.1.a0cb4307QzARKA)
 
 百度开发者中心：[https://developer.baidu.com/](https://developer.baidu.com/)
 
