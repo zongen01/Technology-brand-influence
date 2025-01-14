@@ -6,7 +6,7 @@
     * [中立开发者社区](gong-ju-bao/he-zuo/zhong-li-kai-fa-zhe-she-qu.md)
     * [非中立开发者社区](gong-ju-bao/he-zuo/fei-zhong-li-kai-fa-zhe-she-qu.md)
     * [科技媒体](gong-ju-bao/he-zuo/ke-ji-mei-ti.md)
-    * [咨询机构](gong-ju-bao/he-zuo/zi-xun-ji-gou.md)
+    * [技术出海](gong-ju-bao/he-zuo/ji-shu-chu-hai.md)
 * [技术品牌运营](ji-shu-pin-pai-yun-ying/README.md)
   * [前言](ji-shu-pin-pai-yun-ying/qian-yan.md)
   * [目标](ji-shu-pin-pai-yun-ying/mu-biao.md)
