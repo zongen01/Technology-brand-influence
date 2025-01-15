@@ -24,3 +24,4 @@
 * [🔧 工具包](gong-ju-bao/README.md)
   * [图片素材](gong-ju-bao/tu-pian-su-cai.md)
   * [公众号排版](gong-ju-bao/gong-zhong-hao-pai-ban.md)
+  * [图片设计](gong-ju-bao/tu-pian-she-ji.md)
