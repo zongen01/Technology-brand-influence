@@ -21,10 +21,5 @@
   * [📚 教育](ji-shu-pin-pai-yun-ying/jiao-yu.md)
 * [如何写好一篇技术文章](ru-he-xie-hao-yi-pian-ji-shu-wen-zhang.md)
 * [如何画好技术架构图](ru-he-hua-hao-ji-shu-jia-gou-tu.md)
-
-## Group 1
-
-* [Page](group-1/page.md)
-* [Page 2](group-1/page-2.md)
-* [工具包](group-1/gong-ju-bao.md)
-* [Page 1](group-1/page-1.md)
+* [🔧 工具包](gong-ju-bao/README.md)
+  * [图片素材](gong-ju-bao/tu-pian-su-cai.md)
