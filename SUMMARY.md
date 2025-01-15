@@ -27,3 +27,4 @@
   * [图片设计](gong-ju-bao/tu-pian-she-ji.md)
   * [活动票务](gong-ju-bao/huo-dong-piao-wu.md)
   * [表单问卷](gong-ju-bao/biao-dan-wen-juan.md)
+  * [二维码生成](gong-ju-bao/er-wei-ma-sheng-cheng.md)
