@@ -20,6 +20,7 @@
   * [上海](xian-xia-huo-dong-chang-di/shang-hai.md)
   * [深圳](xian-xia-huo-dong-chang-di/shen-zhen.md)
   * [广东](xian-xia-huo-dong-chang-di/guang-dong.md)
+* [技术&开源组织](ji-shu-kai-yuan-zu-zhi.md)
 * [技术品牌运营](ji-shu-pin-pai-yun-ying/README.md)
   * [前言](ji-shu-pin-pai-yun-ying/qian-yan.md)
   * [目标](ji-shu-pin-pai-yun-ying/mu-biao.md)
