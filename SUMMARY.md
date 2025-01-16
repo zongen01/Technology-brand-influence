@@ -29,3 +29,4 @@
   * [表单问卷](gong-ju-bao/biao-dan-wen-juan.md)
   * [二维码生成](gong-ju-bao/er-wei-ma-sheng-cheng.md)
 * [如何修改完善页面](ru-he-xiu-gai-wan-shan-ye-mian.md)
+* [如何在技术领域产生自己的影响力](ru-he-zai-ji-shu-ling-yu-chan-sheng-zi-ji-de-ying-xiang-li.md)
